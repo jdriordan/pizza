@@ -1,5 +1,5 @@
 Veg1  = [onion, mushroom, sweetcorn]
-Veg2  = [extra cheese, green pepper, tomato]
+Veg2  = []
 Meat3 = [pepperoni, chicken, meatballs]
 Meat4 = [pepperoni, chilli beef, jalapenos, chilli flakes]
 Meat5 = [ham, sweetcorn, bacon]
